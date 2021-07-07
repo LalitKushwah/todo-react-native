@@ -9,5 +9,7 @@ exports[`<TodoList/> it should capture snapshot of component 1`] = `
       "flex": 1,
     }
   }
-/>
+>
+  <View />
+</View>
 `;

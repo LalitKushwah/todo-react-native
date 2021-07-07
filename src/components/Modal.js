@@ -23,6 +23,7 @@ const TodoModal = props => {
             label="Enter Todo here"
             value={textValue}
             onChangeText={setTextValue}
+            testID='modal-text-input'
           />
           <Button
             mode="contained"

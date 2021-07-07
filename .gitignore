@@ -60,3 +60,6 @@ buck-out/
 
 # build
 /android/
+
+# testing
+/coverage
